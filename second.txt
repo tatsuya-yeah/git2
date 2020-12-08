@@ -1,2 +1,4 @@
 fcgvhbjnk
 gcvhbjnkml,;
+git add
+git commit
