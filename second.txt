@@ -4,3 +4,5 @@ git add
 git commit
 git remove
 wow wow
+git diff
+git diff2
